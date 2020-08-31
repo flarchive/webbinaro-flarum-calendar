@@ -1,0 +1,40 @@
+{
+  "name": "webbinaro/flarum-calendar",
+  "description": "Adds a calendar of events created by users",
+  "keywords": [
+    "flarum",
+    "calendar",
+    "events"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.13",
+    "fof/sitemap": "^0.5.1"
+  },
+  "authors": [
+    {
+      "name": "Eddie Webbinaro",
+      "email": "dubblabubbla@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Webbinaro\\AdvCalendar\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Calendar(Events)",
+      "icon": {
+        "name": "fas fa-calendar-alt",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": "https://discuss.flarum.org/d/24429-events-calendar-wip-help-wanted"
+    }
+  }
+}
