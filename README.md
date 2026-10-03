@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of webbinaro/flarum-calendar.** Not for installation: use [Packagist](https://packagist.org/packages/webbinaro/flarum-calendar) or the [upstream repository](https://github.com/eddiewebb/flarum-calendar).
 
-**0** versions archived · Latest: [`1.7.0`](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v1.7.0) · License: `MIT` · Flarum: `^1.7.2`
+**20** versions archived · Latest: [`1.7.0`](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v1.7.0) · License: `MIT` · Flarum: `^1.7.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2020-07-24 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.1) |
+| `0.0.1-beta.1` | 2020-07-10 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.1-beta.1) |
+| `0.0.1-beta.2` | 2020-07-11 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.1-beta.2) |
+| `0.0.1-beta.3` | 2020-07-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.1-beta.3) |
+| `0.0.1.1` | 2020-07-26 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.1.1) |
+| `0.0.2` | 2020-07-26 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.0.2) |
+| `0.1.0` | 2020-07-26 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-08-31 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.1.1) |
+| `0.2.0` | 2021-03-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.2.0) |
+| `0.3.0` | 2021-04-02 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/webbinaro-flarum-calendar/tree/archive/v0.3.0) |
+
+[View all 20 versions](https://github.com/flarchive/webbinaro-flarum-calendar/tags)
 
 Catalog entry: [packages/webbinaro-flarum-calendar.json](https://github.com/flarchive/archive-index/blob/main/packages/webbinaro-flarum-calendar.json)
 
